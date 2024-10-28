@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" />
 </div>
 
@@ -44,7 +44,7 @@
 ## 📫 **Onde você pode me encontrar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seunome-blue?logo=linkedin)](https://www.linkedin.com/in/davyd-kennyd/)  
-[![Gmail](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?logo=gmail)](mailto:kennyd3030@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?logo=gmail)](kennyd3030@gmail.com)
 
 ---
 
