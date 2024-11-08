@@ -41,14 +41,22 @@
 
 ---
 
-## 📫 **Onde você pode me encontrar**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seunome-blue?logo=linkedin)](https://www.linkedin.com/in/davyd-kennyd/)  
-[![Gmail](https://img.shields.io/badge/Email-seuemail%40gmail.com-red?logo=gmail)](kennyd3030@gmail.com)
-
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" />
+## 📫 **Onde você pode me encontrar**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/davyd-kennyd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:kennyd3030@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/davydkennyd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://discordapp.com/users/kennyd3030" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
 </div>
+
