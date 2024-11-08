@@ -1,9 +1,9 @@
 # 🌌 Hey, welcome to my world!
 
 - 👋 I'm **Davyd Kennyd**, backend developer and technology enthusiast.
-- 🎓 Currently cursando **Tecnologia em Sistemas para Internet** e em busca de oportunidades de estágio.
-- 🌐 Apaixonado por **desenvolvimento web**, **automação com Python**.
-- 📚 Sempre estudando para expandir meus conhecimentos em **redes**, **bancos de dados**, e **desenvolvimento mobile**.
+- 🎓 Currently studying Internet Systems Technology and seeking internship opportunities.
+- 🌐 Passionate about web development and automation with Python.
+- 📚 Continuously studying to expand my knowledge in networks, databases.
 
 ---
 
@@ -28,7 +28,7 @@
 - SQL  
 
 **Frameworks & Ferramentas:**  
-- Flask, Django, React Native  
+- Flask, Django.
 - PostgreSQL, SQLite  
 - Git & GitHub
 
@@ -49,9 +49,9 @@
   <a href="https://www.linkedin.com/in/davyd-kennyd/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="kennyd3030@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+ <a href="mailto:kennyd3030@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
   <a href="https://www.instagram.com/davydkennyd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
